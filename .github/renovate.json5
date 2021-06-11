@@ -16,6 +16,8 @@
     "extends": [
         "config:base"
     ],
+    
+    "rangeStrategy": "replace",
 
     "pip_requirements": {
         "fileMatch": ["requirements.*\.txt$"]
