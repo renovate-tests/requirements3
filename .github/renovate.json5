@@ -14,7 +14,8 @@
 
 {
     "extends": [
-        "config:base"
+        "config:base",
+        "@jose123"
     ],
     
     "rangeStrategy": "replace",
