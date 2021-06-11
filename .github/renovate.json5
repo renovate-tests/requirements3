@@ -28,8 +28,6 @@
         "dependency update"
     ],
 
-    "dependencyDashboard": true,
-
     "packageRules": [
         {
             "matchPackagePatterns": [
