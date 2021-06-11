@@ -27,10 +27,6 @@
 
     "dependencyDashboard": true,
 
-    "schedule": [
-        "before 1am on Tuesday"
-    ],
-
     "packageRules": [
         {
             "matchPackagePatterns": [
