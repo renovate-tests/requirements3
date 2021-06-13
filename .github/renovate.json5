@@ -18,6 +18,8 @@
     ],
     
     "rangeStrategy": "replace",
+    
+    "dependencyDashboard": true,
 
     "pip_requirements": {
         "fileMatch": ["requirements.*\.txt$"]
